@@ -11,3 +11,4 @@ const diasDaSemana = [
 
 console.log(`Hoje é: ${diasDaSemana[dataAtual.getDay()]}.`);
 console.log(`A hora atual é: ${dataAtual.toLocaleTimeString()}.`);
+
